@@ -1,1 +1,1 @@
-README
+Name: ls Value: rm *
